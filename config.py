@@ -3,28 +3,28 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "15964777"))
+API_ID = int(os.environ.get("API_ID", "22000434"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","ef448f85b780cdf26f8ffe390a5d8262")
+API_HASH = os.environ.get("API_HASH","fe490c391a2ebb845f293033274c6cdc")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8064699233:AAFbeuM0_YBtu2aFyt6U5EdAe2uHS3Cn9x0")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Txtdownloaderbyanu_bot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Nemesis_Extraction_Bot")
 BOT_TEXT = "Downloader 10"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "1671836568"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7740542002"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002710100597"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", " -1002528637221"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002898482058")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003163787121")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://besib69802:YMOfgvnyjbRgW5qt@cluster0.yzzu2gn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002710100597"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", " -1002528637221"))
 # -----------------------------------------------
-join = '<a href="https://t.me/+MgPgCAPUOVU2Yjhl">✳️ JOIN BACKUP</a>'
+join = '<a href="https://t.me/+B37SgCyNfeFiMDdl">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
